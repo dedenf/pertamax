@@ -14,7 +14,7 @@ Clone the repo
 
 or you could download the script in here :
 
-`$ curl --remote-name https://raw.githubusercontent.com/dedenf/master/pertamax`
+`$ curl --remote-name https://raw.githubusercontent.com/dedenf/pertamax/master/pertamax`
 
 To execute the code you can clone this script to your local and run 
 
@@ -30,10 +30,3 @@ To execute the code you can clone this script to your local and run
 - Etc..
 
 The database like Postgresql and redis disabled by default, if you want to install it you could uncomment the script.
-
-
-
-
-
-
-
