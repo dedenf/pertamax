@@ -5,12 +5,12 @@ Heya, this script is for newly onboarded engineer.s
 This script will install necessary package that engineer will need, it will be a growing list, depend on what business need and engineer weapon of choice.
 
 ### Requirements
-MacOS, so currently tested with **El Capitan**, **Sierra/High Sierra**, **Mojave**.
+MacOS, so currently tested with **El Capitan**, **Sierra/High Sierra**, **Mojave**, not yet tested on Catalina.
 
 ### Install
 Clone the repo
 
-`$ git clone git@github.com:mokapos/pertamax.git`
+`$ git clone git@github.com:dedenf/pertamax.git`
 
 or you could download the script in here :
 
