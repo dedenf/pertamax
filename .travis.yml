@@ -1,0 +1,9 @@
+os: osx
+osx_image: xcode11.3
+
+before_install:
+  - brew install shellcheck
+  - shellcheck mac -e SC2039
+
+script:
+  - sh pertamax
